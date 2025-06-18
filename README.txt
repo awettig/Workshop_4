@@ -1,0 +1,1 @@
+The purpose of this notebook is to show a practical application of the A*-Algorithm to calculate the shortest route.
